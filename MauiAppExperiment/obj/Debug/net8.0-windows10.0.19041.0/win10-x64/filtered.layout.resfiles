@@ -1,10 +1,5 @@
 OpenSans-Regular.ttf
 OpenSans-Semibold.ttf
-dotnet_bot.scale-100.png
-dotnet_bot.scale-125.png
-dotnet_bot.scale-150.png
-dotnet_bot.scale-200.png
-dotnet_bot.scale-400.png
 download.ico
 downloadLargeTile.scale-100.png
 downloadLargeTile.scale-125.png
@@ -51,6 +46,7 @@ downloadWideTile.scale-125.png
 downloadWideTile.scale-150.png
 downloadWideTile.scale-200.png
 downloadWideTile.scale-400.png
+hat.scale-100.png
 splashSplashScreen.scale-100.png
 splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\mauiappexperiment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\mauiappexperiment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\mauiappexperiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\mauiappexperiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -31,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\mauiappexperiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\mauiappexperiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|c:\\users\\koffelaaron\\source\\repos\\mauiappexperiment\\mauiappexperiment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{252CFA36-6B28-4EAD-B661-BFB9DAD3C016}|MauiAppExperiment\\MauiAppExperiment.csproj|solutionrelative:mauiappexperiment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,44 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MauiAppExperiment",
-              "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MauiAppExperiment.csproj",
-              "RelativeDocumentMoniker": "MauiAppExperiment\\MauiAppExperiment.csproj",
-              "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MauiAppExperiment.csproj",
-              "RelativeToolTip": "MauiAppExperiment\\MauiAppExperiment.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-02T20:48:18.69Z",
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "MauiAppExperiment\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "MauiAppExperiment\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:06:43.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "MauiAppExperiment\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "MauiAppExperiment\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-07-02T20:20:12.38Z",
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MauiAppExperiment\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "MauiAppExperiment\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:06:40.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MauiAppExperiment.csproj",
               "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MauiAppExperiment.csproj",
               "RelativeDocumentMoniker": "MauiAppExperiment\\MauiAppExperiment.csproj",
               "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MauiAppExperiment.csproj",
               "RelativeToolTip": "MauiAppExperiment\\MauiAppExperiment.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA0AAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-02T20:03:29.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiAppExperiment\\MauiProgram.cs",
@@ -100,35 +93,38 @@
               "RelativeToolTip": "MauiAppExperiment\\MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:35:46.998Z"
+              "WhenOpened": "2024-07-02T15:35:46.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MauiAppExperiment\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MainPage.xaml.cs",
               "RelativeToolTip": "MauiAppExperiment\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:35:45.984Z"
+              "WhenOpened": "2024-07-02T15:35:45.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiAppExperiment\\MainPage.xaml",
               "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\MainPage.xaml",
               "RelativeToolTip": "MauiAppExperiment\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAtAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T15:33:11.052Z"
+              "WhenOpened": "2024-07-02T15:33:11.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "MauiAppExperiment\\AppShell.xaml.cs",
@@ -136,7 +132,8 @@
               "RelativeToolTip": "MauiAppExperiment\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:33:09.567Z"
+              "WhenOpened": "2024-07-02T15:33:09.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -146,33 +143,10 @@
               "RelativeDocumentMoniker": "MauiAppExperiment\\AppShell.xaml",
               "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\AppShell.xaml",
               "RelativeToolTip": "MauiAppExperiment\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T15:33:00.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MauiAppExperiment\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\App.xaml.cs",
-              "RelativeToolTip": "MauiAppExperiment\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:32:58.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\App.xaml",
-              "RelativeDocumentMoniker": "MauiAppExperiment\\App.xaml",
-              "ToolTip": "C:\\Users\\koffelaaron\\source\\repos\\MauiAppExperiment\\MauiAppExperiment\\App.xaml",
-              "RelativeToolTip": "MauiAppExperiment\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T15:32:54.012Z"
+              "WhenOpened": "2024-07-02T15:33:00.749Z",
+              "EditorCaption": ""
             }
           ]
         }

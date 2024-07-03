@@ -1,4 +1,6 @@
-﻿namespace MauiAppExperiment
+﻿using System.Diagnostics;
+
+namespace MauiAppExperiment
 {
     public partial class MainPage : ContentPage
     {
@@ -11,7 +13,7 @@
 
         private void OnCounterClicked(object sender, EventArgs e)
         {
-            count+=10;
+            count++;
 
             if (count == 1)
                 CounterBtn.Text = $"Clicked {count} time";
@@ -19,6 +21,15 @@
                 CounterBtn.Text = $"Clicked {count} times";
 
             SemanticScreenReader.Announce(CounterBtn.Text);
+        }
+
+        private void MyButtonClick(object sender, EventArgs e)
+        {
+            if (EntryField.Text == "test")
+            {
+                Trace.WriteLine("test successful");
+                EntryField.Text = "test successful";
+            }
         }
     }
 

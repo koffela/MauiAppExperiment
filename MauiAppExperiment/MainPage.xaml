@@ -7,19 +7,19 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <Image
+            <!--<Image
                 Source="dotnet_bot.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a race car number eight" />
+                SemanticProperties.Description="dot net bot in a race car number eight" />-->
 
-            <Label
+            <!--<Label
                 Text="Hello .NET Maui!"
                 Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
+                SemanticProperties.HeadingLevel="Level1" />-->
 
             <Label
-                Text="Welcome to &#10;.NET Multi-platform App UI"
+                Text="Experimental Maui App"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
@@ -36,6 +36,19 @@
                 MaxLength="75"
                 Placeholder="Enter your text"
                 />
+            
+            <Button
+                x:Name="MyButton"
+                Text="put (test) into the text entry field for data binding test" 
+                SemanticProperties.Hint="A test with entry field text"
+                Clicked="MyButtonClick"
+                HorizontalOptions="Fill" />
+
+            <Image
+                Source="hat.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="a hat"/>
         </VerticalStackLayout>
     </ScrollView>
 
