@@ -259,15 +259,14 @@ C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
-C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449.png
-C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
-C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
+C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\tyh_AA9605406D8DED46047AA7893832D4DA11DC7BB9679292F883DCB19B8E87E8E2.png
+C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\tyh_AA9605406D8DED46047AA7893832D4DA11DC7BB9679292F883DCB19B8E87E8E2@2x.png
+C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\tyh_AA9605406D8DED46047AA7893832D4DA11DC7BB9679292F883DCB19B8E87E8E2@3x.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.stamp
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\download.appiconset\downloadItunesArtwork.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\download.appiconset\download83.5x83.5@2x.png
@@ -282,6 +281,7 @@ C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\download.appiconset\download20x20@2x.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\download.appiconset\Contents.json
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\hat.png
+C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\tyt.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.stamp
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.outputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist

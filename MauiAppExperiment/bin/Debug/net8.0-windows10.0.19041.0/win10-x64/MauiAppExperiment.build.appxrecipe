@@ -40,26 +40,32 @@
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-100.png">
+      <PackagePath>tyhSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-125.png">
+      <PackagePath>tyhSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-150.png">
+      <PackagePath>tyhSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-200.png">
+      <PackagePath>tyhSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-400.png">
+      <PackagePath>tyhSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hat.scale-100.png">
+      <PackagePath>hat.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tyt.scale-100.png">
+      <PackagePath>tyt.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLargeTile.scale-400.png">
       <PackagePath>downloadLargeTile.scale-400.png</PackagePath>
@@ -198,9 +204,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.ico">
       <PackagePath>download.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hat.scale-100.png">
-      <PackagePath>hat.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppExperiment.deps.json">
       <PackagePath>MauiAppExperiment.deps.json</PackagePath>

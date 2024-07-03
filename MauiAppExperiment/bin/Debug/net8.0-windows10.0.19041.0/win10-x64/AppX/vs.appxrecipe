@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>05349E78CF814C07595F78573B6B7354C393B78F4C73DA99B4A557DE8A88945A</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>E4C92961E4BAA8B14C264256DBB9D3D7146D603AE9C79207087CADD000516AE0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.mauiappexperiment_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.mauiappexperiment_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>com.companyname.mauiappexperiment</RegisteredPackageID>
@@ -29,49 +29,49 @@
     <AppXManifest Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-03T19:38:29.849</Modified>
+      <Modified>2024-07-03T21:21:19.803</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-03T19:38:29.768</Modified>
+      <Modified>2024-07-03T21:21:19.716</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppExperiment.runtimeconfig.json">
       <PackagePath>MauiAppExperiment.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-03T19:38:29.665</Modified>
+      <Modified>2024-07-03T21:21:19.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppExperiment.dll">
       <PackagePath>MauiAppExperiment.dll</PackagePath>
-      <Modified>2024-07-03T19:38:29.462</Modified>
+      <Modified>2024-07-03T21:21:19.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppExperiment.exe</PackagePath>
-      <Modified>2024-07-03T19:38:29.465</Modified>
+      <Modified>2024-07-03T21:21:19.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-07-02T15:29:36.261</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:27.223</Modified>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-100.png">
+      <PackagePath>tyhSplashScreen.scale-100.png</PackagePath>
+      <Modified>2024-07-03T21:21:17.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:27.234</Modified>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-125.png">
+      <PackagePath>tyhSplashScreen.scale-125.png</PackagePath>
+      <Modified>2024-07-03T21:21:17.112</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:27.250</Modified>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-150.png">
+      <PackagePath>tyhSplashScreen.scale-150.png</PackagePath>
+      <Modified>2024-07-03T21:21:17.136</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:27.275</Modified>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-200.png">
+      <PackagePath>tyhSplashScreen.scale-200.png</PackagePath>
+      <Modified>2024-07-03T21:21:17.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:27.373</Modified>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\tyhSplashScreen.scale-400.png">
+      <PackagePath>tyhSplashScreen.scale-400.png</PackagePath>
+      <Modified>2024-07-03T21:21:17.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,195 +83,199 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLargeTile.scale-400.png">
       <PackagePath>downloadLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.308</Modified>
+      <Modified>2024-07-03T21:21:19.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLargeTile.scale-200.png">
       <PackagePath>downloadLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.308</Modified>
+      <Modified>2024-07-03T21:21:19.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLargeTile.scale-150.png">
       <PackagePath>downloadLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.308</Modified>
+      <Modified>2024-07-03T21:21:19.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLargeTile.scale-125.png">
       <PackagePath>downloadLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.308</Modified>
+      <Modified>2024-07-03T21:21:19.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLargeTile.scale-100.png">
       <PackagePath>downloadLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.308</Modified>
+      <Modified>2024-07-03T21:21:19.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadWideTile.scale-400.png">
       <PackagePath>downloadWideTile.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.309</Modified>
+      <Modified>2024-07-03T21:21:19.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadWideTile.scale-200.png">
       <PackagePath>downloadWideTile.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.309</Modified>
+      <Modified>2024-07-03T21:21:19.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadWideTile.scale-150.png">
       <PackagePath>downloadWideTile.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.309</Modified>
+      <Modified>2024-07-03T21:21:19.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadWideTile.scale-125.png">
       <PackagePath>downloadWideTile.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.309</Modified>
+      <Modified>2024-07-03T21:21:19.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadWideTile.scale-100.png">
       <PackagePath>downloadWideTile.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.309</Modified>
+      <Modified>2024-07-03T21:21:19.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadMediumTile.scale-400.png">
       <PackagePath>downloadMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.309</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadMediumTile.scale-200.png">
       <PackagePath>downloadMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadMediumTile.scale-150.png">
       <PackagePath>downloadMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadMediumTile.scale-125.png">
       <PackagePath>downloadMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadMediumTile.scale-100.png">
       <PackagePath>downloadMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadSmallTile.scale-400.png">
       <PackagePath>downloadSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadSmallTile.scale-200.png">
       <PackagePath>downloadSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadSmallTile.scale-150.png">
       <PackagePath>downloadSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadSmallTile.scale-125.png">
       <PackagePath>downloadSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadSmallTile.scale-100.png">
       <PackagePath>downloadSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.310</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadStoreLogo.scale-400.png">
       <PackagePath>downloadStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadStoreLogo.scale-200.png">
       <PackagePath>downloadStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadStoreLogo.scale-150.png">
       <PackagePath>downloadStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadStoreLogo.scale-125.png">
       <PackagePath>downloadStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadStoreLogo.scale-100.png">
       <PackagePath>downloadStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>downloadLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>downloadLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>downloadLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.311</Modified>
+      <Modified>2024-07-03T21:21:19.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>downloadLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>downloadLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-unplated_targetsize-256.png">
       <PackagePath>downloadLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-unplated_targetsize-48.png">
       <PackagePath>downloadLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-unplated_targetsize-32.png">
       <PackagePath>downloadLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-unplated_targetsize-24.png">
       <PackagePath>downloadLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.altform-unplated_targetsize-16.png">
       <PackagePath>downloadLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.312</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.targetsize-256.png">
       <PackagePath>downloadLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.targetsize-48.png">
       <PackagePath>downloadLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.targetsize-32.png">
       <PackagePath>downloadLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.targetsize-24.png">
       <PackagePath>downloadLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.targetsize-16.png">
       <PackagePath>downloadLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.scale-400.png">
       <PackagePath>downloadLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.scale-200.png">
       <PackagePath>downloadLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.scale-150.png">
       <PackagePath>downloadLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.313</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.scale-125.png">
       <PackagePath>downloadLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.314</Modified>
+      <Modified>2024-07-03T21:21:19.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadLogo.scale-100.png">
       <PackagePath>downloadLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.314</Modified>
+      <Modified>2024-07-03T21:21:19.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.ico">
       <PackagePath>download.ico</PackagePath>
-      <Modified>2024-07-03T19:38:29.314</Modified>
+      <Modified>2024-07-03T21:21:19.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hat.scale-100.png">
       <PackagePath>hat.scale-100.png</PackagePath>
-      <Modified>2024-07-03T19:38:29.314</Modified>
+      <Modified>2024-07-03T21:21:19.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tyt.scale-100.png">
+      <PackagePath>tyt.scale-100.png</PackagePath>
+      <Modified>2024-07-03T21:21:19.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppExperiment.deps.json">
       <PackagePath>MauiAppExperiment.deps.json</PackagePath>
-      <Modified>2024-07-03T19:38:29.663</Modified>
+      <Modified>2024-07-03T21:21:19.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\koffelaaron\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

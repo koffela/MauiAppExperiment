@@ -258,6 +258,8 @@ C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\hat.png
+C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\tyt.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\download.appiconset\downloadItunesArtwork.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\download.appiconset\download83.5x83.5@2x.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\download.appiconset\download76x76@2x.png
@@ -270,7 +272,6 @@ C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\download.appiconset\download20x20@3x.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\download.appiconset\download20x20@2x.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\download.appiconset\Contents.json
-C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\hat.png
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
 C:\Users\koffelaaron\source\repos\MauiAppExperiment\MauiAppExperiment\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
