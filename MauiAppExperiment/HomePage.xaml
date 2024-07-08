@@ -5,6 +5,6 @@
              x:Class="MauiAppExperiment.HomePage"
              BackgroundImageSource = "tyt.png">
     <StackLayout>
-        <!-- Content for the HomePage goes here -->
+        <Label Text="Home" FontSize="28" HorizontalOptions="Center"/>
     </StackLayout>
 </ContentPage>

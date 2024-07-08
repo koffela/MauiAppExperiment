@@ -6,12 +6,20 @@
     xmlns:local="clr-namespace:MauiAppExperiment"
     xmlns:compat="clr-namespace:Microsoft.Maui.Controls;assembly=Microsoft.Maui.Controls.Compatibility"
     Shell.FlyoutBehavior="Disabled"
-    Title="MauiAppExperiment">
+    Title="MauiAppExperiment"
+    BackgroundColor="Transparent"
+    >
     <TabBar>
-        <Tab Title="Home">
+        <Tab Title="Home" Icon="bxhome.svg">
             <ShellContent ContentTemplate="{DataTemplate local:HomePage}" />
         </Tab>
-        <Tab Title="Settings">
+        <Tab Title="Discord" Icon="discord.svg">
+            <ShellContent ContentTemplate="{DataTemplate local:DiscordPage}" />
+        </Tab>
+        <Tab Title="Experimental" Icon="bxwrench2.svg">
+            <ShellContent ContentTemplate="{DataTemplate local:ExperimentalPage}" />
+        </Tab>
+        <Tab Title="Settings" Icon="bxcog.svg">
             <ShellContent ContentTemplate="{DataTemplate local:SettingsPage}" />
         </Tab>
     </TabBar>

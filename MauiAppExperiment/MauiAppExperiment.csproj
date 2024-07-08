@@ -42,6 +42,12 @@
 	<ItemGroup>
 		<!-- App Icon -->
 		<MauiIcon Include="Resources\AppIcon\download.png" />
+		<MauiImage Include="Resources\Images\bxcog.svg" />
+		<MauiImage Include="Resources\Images\bxswrench.svg" />
+		<MauiImage Include="Resources\Images\bxwrench2.svg" />
+		<MauiImage Include="Resources\Images\discord.svg" />
+		<MauiImage Include="Resources\Images\settings_24x24.jpg" />
+		<MauiImage Include="Resources\Images\bxhome.svg" />
 
 		<!-- Splash Screen -->
 
@@ -58,6 +64,20 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\AppIcon\bx-home.svg" />
+	  <None Remove="Resources\AppIcon\bxhome.svg" />
+	  <None Remove="Resources\discord.png" />
+	  <None Remove="Resources\Images\bxcog.svg" />
+	  <None Remove="Resources\Images\bxhome.svg" />
+	  <None Remove="Resources\Images\bxswrench.svg" />
+	  <None Remove="Resources\Images\bxwrench2.svg" />
+	  <None Remove="Resources\Images\discord.jpg" />
+	  <None Remove="Resources\Images\discord.png" />
+	  <None Remove="Resources\Images\discord.svg" />
+	  <None Remove="Resources\Images\person.png" />
+	  <None Remove="Resources\Images\settings.jpg" />
+	  <None Remove="Resources\Images\settings.png" />
+	  <None Remove="Resources\Images\settings_24x24.jpg" />
 	  <None Remove="Resources\Images\tyt.png" />
 	  <None Remove="Resources\Splash\tyh.png" />
 	</ItemGroup>
@@ -79,6 +99,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="DiscordPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ExperimentalPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="HomePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
